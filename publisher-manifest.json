@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "12a9e7070c0038eec6bda3e1",
+  "owner": "fwudkf",
+  "repo": "page-b38f35a38dea4b7c1524a9c3",
+  "title": "翻呀518",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b38f35a38dea4b7c1524a9c3",
+      "a": "翻呀518",
+      "b": "2027官方最新地址导航",
+      "entity": "翻呀518",
+      "brand": "翻呀518",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9f2a94ca23674fe35027b303f6fb7aa8117a07a7e44134c59a0b81eb11807efa",
+      "content": {
+        "primary_entity": "翻呀518",
+        "keyword1": "翻呀518",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，订阅配置更顺手。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档配置订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "选套餐，开始连接",
+          "AI_DESCRIPTION": "，为跨境访问与流媒体场景提供多档套餐，按设备数量与月流量区分，支持按年付降低月均成本，覆盖基础版、旗舰版与团队版，方便个人、家庭与小型团队按需选择。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量与订阅周期，快速找到适合的方案。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备，适合单人或轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB、5台设备，含IPLC专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB、20台设备，适合多人共享与定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量挑选",
+          "AI_FEATURE_TITLE_2": "按设备挑选",
+          "AI_FEATURE_TITLE_3": "按周期挑选",
+          "AI_GUIDE_INTRO": "三步完成从选服务到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "翻呀518提供多档海外加速套餐，按流量、设备数与订阅周期划分，覆盖基础版、旗舰版与团队版，方便个人、家庭与小型团队按需选择。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备与流量选",
+          "AI_HIGHLIGHT_1": "基础版月付15元，年付150元",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线与流媒体解锁",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备同时在线",
+          "AI_PLANS_INTRO": "基础版月付¥15、年付¥150；旗舰版月付¥35、年付¥350；团队版月付¥85、年付¥850。按流量与设备数对比即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量与同时在线设备数，在基础版、旗舰版、团队版之间选定服务。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备数量、流量额度与订阅周期。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按客户端配置订阅",
+          "AI_VISUAL_TITLE": "翻呀518套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备，适合手机与电脑日常使用。旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线节点，适合多设备和高带宽场景。",
+          "AI_FAQ_ANSWER_2": "登录后获取订阅地址，在所选客户端中导入。不同客户端操作略有差异，建议对照对应客户端的配置文档逐步完成订阅导入。",
+          "AI_FAQ_ANSWER_3": "基础版 3 台，旗舰版 5 台，团队版 20 台。设备数量为同时在线上限，超出后需要断开部分设备或升级套餐。",
+          "AI_FAQ_ANSWER_4": "月付与年付均可。以基础版为例，月付 ¥15/月，按年付仅需 ¥150/年；旗舰版 ¥35/月或 ¥350/年；团队版 ¥85/月或 ¥850/年。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，普通线路节点池覆盖基础版，团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "翻呀518 三个套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "订阅地址如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同时对在线的设备数量有限制吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付的价格分别是多少？",
+          "AI_FAQ_QUESTION_5": "不同套餐的节点和线路有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "district27.cn",
+    "host": "district27.cn"
+  },
+  "file_hashes": {
+    "index.html": "99981ec6b9ebaa076ae6e3c679f6561a4d01e45cca8fc782a613f1cae3f16107",
+    "sitemap.xml": "076f2351aed34d8947fe61f03201eed542c9b0d802114792e37676f393f91da3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0b015f255821d338f4948f22644258c6a4a0740a7dcc958ace27939930579660",
+    "robots.txt": "d19d7e6fcad6b6fa40cab41f644b3ca69d0403cfeb2a16806c986169fd6e3958",
+    "1a1f6346c564cf8407948fa52ef041f7.txt": "23497074ffeabe5a0952f7a3f5419eaa70e0bd89403ab492b5aea0f726f1b241"
+  },
+  "revision": "a1f55aca7aaaa392c4324c83c9decd9f45f04872227795627fa39b94fa82d390"
+}
